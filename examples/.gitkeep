@@ -1,0 +1,29 @@
+# SaaS Project Examples
+
+This directory will contain example SaaS projects built using the agent collection.
+
+## Planned Examples
+
+### Full SaaS Applications
+- **Project Management SaaS** - Complete example using all core agents
+- **E-commerce SaaS Platform** - Multi-tenant marketplace example  
+- **Analytics Dashboard SaaS** - Data-driven application example
+- **Customer Support SaaS** - Support ticket and knowledge base system
+
+### Component Examples
+- **Multi-tenant Database Patterns** - Database schema examples
+- **Authentication & Authorization** - Complete auth system examples
+- **Subscription Billing Integration** - Payment processing examples
+- **Real-time Features** - WebSocket and real-time update examples
+
+### Architecture Templates
+- **Starter Templates** - Boilerplate code for common SaaS patterns
+- **Microservices Examples** - Service decomposition patterns
+- **API Integration Examples** - Third-party service integration patterns
+
+Each example will include:
+- Complete source code
+- Documentation on which agents were used
+- Step-by-step development process
+- Deployment instructions
+- Scaling considerations

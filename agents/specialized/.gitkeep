@@ -1,0 +1,19 @@
+# Future Specialized SaaS Agents
+
+This directory is reserved for specialized SaaS development agents that extend beyond the core development needs.
+
+## Planned Agents
+
+### High Priority
+- **Data Engineer** - Analytics, ETL, business intelligence
+- **Customer Success Engineer** - User onboarding, support systems
+- **Technical Writer** - Documentation, API docs, user guides
+
+### Future Consideration
+- **Business Analyst** - Requirements, process optimization
+- **Site Reliability Engineer** - System reliability, incident response
+- **Growth Engineer** - A/B testing, conversion optimization
+- **Sales Engineer** - Technical sales, demo environments
+- **Integration Engineer** - Third-party integrations, webhooks
+
+See [Contributing Guide](../../docs/contributing.md) for details on proposing and creating new agents.
